@@ -1,5 +1,5 @@
 import React from 'react';
-import { BsPersonFill, BsPersonFillExclamation, BsThreeDotsVertical } from 'react-icons/bs'
+import { BsPersonFill, BsThreeDotsVertical } from 'react-icons/bs'
 import { data } from '../data/data.js'
 const customers = () => {
   return (
